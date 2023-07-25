@@ -21,6 +21,7 @@ const contacts = [
   { icon: faEnvelope, info: 'customer@littlelemon.com', },
 ];
 
+
 const socials = [
   { icon: faFacebook, name: 'facebook', },
   { icon: faTwitter, name: 'twitter', },
